@@ -1,3 +1,8 @@
+---
+layout: default
+title: FAQ – Hémicycle
+---
+
 # 📚 Foire Aux Questions (FAQ) — Hémicycle
 
 ## ❓ Qu’est-ce que Hémicycle ?
