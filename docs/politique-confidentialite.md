@@ -1,3 +1,8 @@
+---
+layout: default
+title: Politique Confidentialité – Hémicycle
+---
+
 # Politique de Confidentialité de l'application Hémicycle
 
 *Dernière mise à jour :* 04 Juin 2025
