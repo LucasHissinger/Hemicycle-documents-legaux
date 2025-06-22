@@ -57,6 +57,10 @@ Notre but est d’éveiller la curiosité et de te rapprocher du fonctionnement 
 Oui. Nous stockons uniquement les données nécessaires au fonctionnement de l’app (email, identifiant, préférences).  
 Tes données ne sont **jamais vendues** avec des tiers mais peuvent être partagées.
 
+## ❓ Comment demander la suppression de mon compte et mes données ?
+Pour demander la suppression de votre compte et de vos données, allez dans Paramètres puis sélectionnez Supprimer mon compte. 
+Une fois la suppression demandée, vos données seront supprimées sous 90 jours et votre compte sera désactivé pendant cette période.
+
 
 ## ❓ Sur quels appareils Hémicycle est-elle disponible ?
 L’application est disponible gratuitement sur :
