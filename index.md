@@ -15,6 +15,8 @@ Bienvenue sur la page des **Documents Légaux** de l’application **Hémicycle*
 - [🔒 Politique de Confidentialité](/docs/politique-confidentialite.md)  
   Comprenez comment nous protégeons vos données personnelles.
 
+- [ Nous contacter](/docs/nous-contacter.md)
+  Cliquez ici pour contacter l'équipe de developpement.
 ---
 
 Merci de votre visite et bonne découverte de l’application !  
